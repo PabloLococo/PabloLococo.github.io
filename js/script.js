@@ -1,4 +1,7 @@
-<script type ="text/javascript">
-    prompt("Su nombre es:")
+<script>
+    function mensaje() 
+    {
+        prompt=("Ingrese su nombre")
+    }
 </script>
 
